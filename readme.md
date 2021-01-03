@@ -1,28 +1,28 @@
 # Dcat Admin
 
-本项目是[Dcat Admin](https://github.com/jqhph/dcat-admin)的DEMO源码，在线预览[点击这里](https://jqhph.github.io/dcat-admin/demo.html)。
+This project is the DEMO source code of [Dcat Admin](https://github.com/jqhph/dcat-admin), for online preview [click here](https://jqhph.github.io/dcat-admin/demo.html).
 
-## 安装
+## Install
 
-运行
+Run
 ```shell
 composer install
 ```
 
-安装完之后，复制一份`.env.example`文件并命名为`.env`，然后运行
+After installation, make a copy of the `.env.example` file and name it `.env`, then run
 ```shell
 php artisan key:generate
 ```
 
-然后配置好数据库连接信息运行以下命令
+Then configure the database connection information and run the following command
 
-> 这里会提示文件夹已存在，忽略即可。
+> Here you will be prompted that the folder already exists, just ignore it.
 
 ```php
 php artisan admin:install
 ```
 
-最后运行`php artisan serve`。然后打开`http://localhost:8000/admin`即可访问，账号`admin`，密码`admin`。
+Finally run `php artisan serve`. Then open `http://localhost:8000/admin` to access it with account `admin` and password `admin`.
 
 
 
