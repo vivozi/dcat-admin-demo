@@ -1,6 +1,12 @@
 # Dcat Admin
 
-This project is the DEMO source code of [Dcat Admin](https://github.com/jqhph/dcat-admin), for online preview [click here](https://jqhph.github.io/dcat-admin/demo.html).
+This project is the DEMO source code of [Dcat Admin](https://github.com/jqhph/dcat-admin), preview online [click here](http://103.39.211.179:8080/admin).
+
+
+Repository address
+
+- Github [https://github.com/jqhph/dcat-admin-demo](https://github.com/jqhph/dcat-admin-demo) 
+- Gitee  [https://gitee.com/jqhph/dcat-admin-demo](https://gitee.com/jqhph/dcat-admin-demo) 
 
 ## Install
 
